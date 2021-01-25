@@ -4,12 +4,10 @@ Members:
 Harie Vashini
 Zeba Khan
 
-																											Database System Implementation
-                                                            Project Part I
-                                                    Data Generation & System Selection
+Database System Implementation
+Project Part I
+Data Generation & system Selection
 
-
-                                                      
 Data Generator Code: benchmark-project.py
 
 Description:
