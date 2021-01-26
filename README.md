@@ -11,11 +11,14 @@ Project Part I
 
 Data Generation & system Selection
 
-Data Generator Code: benchmark-project.py
+Data Generator Code: benchmark.py
 
 Description:
 
-We have used a python code to generate the data for wisconsin benchmark.
+We have used a python code to generate the csv data for wisconsin benchmark.
+Run using: python3 benchmark.py
+ONEKTUP.csv, TENKTUP1.csv, TENKTUP2.csv are the three csv files that were generated using the python code.
+We then used \copy to export the csv files to the respective tables in wisconsin database.
 Reference: https://github.com/snuchhi/DB-Benchmark-project/blob/master/benchmark-project.py
 
 System : PostgreSQL
