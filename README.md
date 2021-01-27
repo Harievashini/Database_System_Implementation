@@ -1,8 +1,8 @@
                                                                                   
                                                     
-## Members:
-Harie Vashini
-Zeba Khan
+<p align= "right"> <b> Members:</b></p>
+<p align= "right"> Harie Vashini </p>
+<p align= "right"> Zeba Khan </p>
 
    <p align= "center"> <b> Database System Implementation</b></p>
    <p align= "center"> <b> Project Part I </b></p>
