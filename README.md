@@ -1,6 +1,6 @@
                                                                                   
                                                     
-Members:
+#Members:
 Harie Vashini
 Zeba Khan
 
@@ -27,5 +27,5 @@ Demonstration:
 
 Lessons learned:
 
-Challenges:
+Challenges: 
 
