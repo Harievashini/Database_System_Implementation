@@ -4,9 +4,9 @@
 Harie Vashini
 Zeba Khan
 
-   <p align= "center"> # Database System Implementation
-   # Project Part I
-   # Data Generation & system Selection </p>
+   <p align= "center"> <b> Database System Implementation</b></p>
+   <p align= "center"> <b> Project Part I </b></p>
+   <p align= "center"> <b>Data Generation & system Selection </b> </p>
 
 Data Generator Code: benchmark.py
 
